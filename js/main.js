@@ -5,3 +5,5 @@
 // }
 
 // getACuteDogPhoto()
+
+///////add try catch block///////////
