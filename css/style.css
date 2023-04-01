@@ -40,3 +40,12 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+/* On mobile */
+@media all and (max-width: 500px){
+     
+   }
+
+   /* On tablet */
+@media all and (max-width: 920px){
+    
+   }
